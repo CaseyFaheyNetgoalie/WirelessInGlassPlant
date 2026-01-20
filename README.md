@@ -166,3 +166,12 @@ Fahey, C. (2025). *Delivering Optimal Wireless in the Glass Manufacturing Plant:
 ---
 
 *"When designed from first principles, wireless becomes a predictable, scalable enabler even under extreme conditions."*
+
+## 🔍 Keywords for Discovery
+industrial wireless, private 5G, CBRS, Wi-Fi 6E, manufacturing wireless, glass manufacturing, deterministic networking, IEEE 3388-2025, IETF DetNet, industrial IoT, IIoT, factory wireless, OT security, TSN, WirelessHART, AGV connectivity, industrial automation
+
+## 📊 Document Stats
+- 150+ pages of technical guidance
+- 10 first principles for industrial wireless design
+- 80+ citations to standards and research
+- Real-world case studies from Fortune 500 manufacturers
